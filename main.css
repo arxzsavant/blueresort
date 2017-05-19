@@ -15,11 +15,16 @@ h2{
 }
 
 
+article {
+  width:800px;
+}
 article figure  {
-  width:601px;
+  width:600px;
   border: 3px solid black;
+  padding:5px;
 }
 
 article figure img {
   width:100%;
 }
+
